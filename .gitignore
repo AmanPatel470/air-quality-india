@@ -6,3 +6,4 @@ data/raw/*.csv
 data/clean/*.csv
 models/*.pkl
 .DS_Store
+Portfolio-main/
