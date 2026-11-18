@@ -1,0 +1,729 @@
+State Code,State,District LGD Code,District,Boundary District,Name Match,Latitude,Longitude,Geometry Type,Coordinate Source
+35,Andaman And Nicobar Islands,603,Nicobars,Nicobars,True,7.002668,93.809615,MultiPolygon,Survey of India
+35,Andaman And Nicobar Islands,632,North And Middle Andaman,North And Middle Andaman,True,12.610711,92.834194,MultiPolygon,Survey of India
+35,Andaman And Nicobar Islands,602,South Andamans,South Andamans,True,11.862143,92.664917,MultiPolygon,Survey of India
+28,Andhra Pradesh,502,Ananthapuramu,Anantapur,False,14.456219,77.488086,MultiPolygon,Survey of India
+28,Andhra Pradesh,503,Chittoor,Chittoor,True,13.313237,78.976798,MultiPolygon,Survey of India
+28,Andhra Pradesh,505,East Godavari,East Godavari,True,17.157671,82.039084,MultiPolygon,Survey of India
+28,Andhra Pradesh,506,Guntur,Guntur,True,16.267584,80.18206,MultiPolygon,Survey of India
+28,Andhra Pradesh,510,Krishna,Krishna,True,16.429338,81.039571,MultiPolygon,Survey of India
+28,Andhra Pradesh,511,Kurnool,Kurnool,True,15.51494,77.874702,MultiPolygon,Survey of India
+28,Andhra Pradesh,517,Prakasam,Prakasam,True,15.633762,79.510885,MultiPolygon,Survey of India
+28,Andhra Pradesh,515,Sri Potti Sriramulu Nellore,Spsr Nellore,False,14.293312,79.779775,MultiPolygon,Survey of India
+28,Andhra Pradesh,519,Srikakulam,Srikakulam,True,18.628152,83.973699,Polygon,Survey of India
+28,Andhra Pradesh,520,Visakhapatnam,Visakhapatanam,False,17.898136,82.566217,MultiPolygon,Survey of India
+28,Andhra Pradesh,521,Vizianagaram,Vizianagaram,True,18.502757,83.323288,MultiPolygon,Survey of India
+28,Andhra Pradesh,523,West Godavari,West Godavari,True,16.979323,81.340869,MultiPolygon,Survey of India
+28,Andhra Pradesh,504,Y.S.R. Kadapa,Y.S.R.,False,14.472972,78.672074,MultiPolygon,Survey of India
+12,Arunachal Pradesh,628,Anjaw,Anjaw,True,28.023488,96.829159,MultiPolygon,Survey of India
+12,Arunachal Pradesh,229,Changlang,Changlang,True,27.283871,96.073316,MultiPolygon,Survey of India
+12,Arunachal Pradesh,230,Dibang Valley,Dibang Valley,True,28.873837,95.950139,MultiPolygon,Survey of India
+12,Arunachal Pradesh,231,East Kameng,East Kameng,True,27.541672,92.962669,MultiPolygon,Survey of India
+12,Arunachal Pradesh,232,East Siang,East Siang,True,28.058251,95.388274,MultiPolygon,Survey of India
+12,Arunachal Pradesh,718,Kamle,Kamle,True,27.726669,94.117692,MultiPolygon,Survey of India
+12,Arunachal Pradesh,677,Kra Daadi,Kra Daadi,True,27.932462,93.758293,MultiPolygon,Survey of India
+12,Arunachal Pradesh,233,Kurung Kumey,Kurung Kumey,True,27.989745,93.170606,MultiPolygon,Survey of India
+12,Arunachal Pradesh,724,Leparada,Leparada,True,27.914713,94.708483,MultiPolygon,Survey of India
+12,Arunachal Pradesh,234,Lohit,Lohit,True,27.966581,96.295455,MultiPolygon,Survey of India
+12,Arunachal Pradesh,666,Longding,Longding,True,26.882199,95.301228,MultiPolygon,Survey of India
+12,Arunachal Pradesh,235,Lower Dibang Valley,Lower Dibang Valley,True,28.231733,95.866794,MultiPolygon,Survey of India
+12,Arunachal Pradesh,719,Lower Siang,Lower Siang,True,27.813958,94.592487,MultiPolygon,Survey of India
+12,Arunachal Pradesh,236,Lower Subansiri,Lower Subansiri,True,27.538955,93.796343,MultiPolygon,Survey of India
+12,Arunachal Pradesh,678,Namsai,Namsai,True,27.711374,96.019214,MultiPolygon,Survey of India
+12,Arunachal Pradesh,723,Pakke Kessang,Pakke Kessang,True,27.157656,93.14667,MultiPolygon,Survey of India
+12,Arunachal Pradesh,237,Papum Pare,Papum Pare,True,27.270779,93.59994,MultiPolygon,Survey of India
+12,Arunachal Pradesh,725,Shi Yomi,Shi Yomi,True,28.690547,94.225701,MultiPolygon,Survey of India
+12,Arunachal Pradesh,679,Siang,Siang,True,28.469409,94.825416,MultiPolygon,Survey of India
+12,Arunachal Pradesh,238,Tawang,Tawang,True,27.675156,91.933082,MultiPolygon,Survey of India
+12,Arunachal Pradesh,239,Tirap,Tirap,True,27.035398,95.515673,MultiPolygon,Survey of India
+12,Arunachal Pradesh,240,Upper Siang,Upper Siang,True,28.746232,94.998106,MultiPolygon,Survey of India
+12,Arunachal Pradesh,241,Upper Subansiri,Upper Subansiri,True,28.240031,94.068551,MultiPolygon,Survey of India
+12,Arunachal Pradesh,242,West Kameng,West Kameng,True,27.304996,92.434686,MultiPolygon,Survey of India
+12,Arunachal Pradesh,243,West Siang,West Siang,True,28.180608,94.775718,MultiPolygon,Survey of India
+18,Assam,616,Baksa,Baksa,True,26.614394,91.452824,MultiPolygon,Survey of India
+18,Assam,280,Barpeta,Barpeta,True,26.373126,91.062656,MultiPolygon,Survey of India
+18,Assam,705,Biswanath,Biswanath,True,26.798922,93.356114,MultiPolygon,Survey of India
+18,Assam,281,Bongaigaon,Bongaigaon,True,26.340849,90.622637,MultiPolygon,Survey of India
+18,Assam,282,Cachar,Cachar,True,24.750098,92.880298,MultiPolygon,Survey of India
+18,Assam,708,Charaideo,Charaideo,True,27.059253,95.031818,MultiPolygon,Survey of India
+18,Assam,612,Chirang,Chirang,True,26.633745,90.628008,MultiPolygon,Survey of India
+18,Assam,283,Darrang,Darrang,True,26.439181,91.996513,MultiPolygon,Survey of India
+18,Assam,284,Dhemaji,Dhemaji,True,27.604174,94.75481,MultiPolygon,Survey of India
+18,Assam,285,Dhubri,Dhubri,True,26.123672,90.109818,MultiPolygon,Survey of India
+18,Assam,286,Dibrugarh,Dibrugarh,True,27.390714,95.092194,MultiPolygon,Survey of India
+18,Assam,299,Dima Hasao,Dima Hasao,True,25.406088,93.036602,MultiPolygon,Survey of India
+18,Assam,287,Goalpara,Goalpara,True,26.064466,90.627666,MultiPolygon,Survey of India
+18,Assam,288,Golaghat,Golaghat,True,26.308962,93.994679,MultiPolygon,Survey of India
+18,Assam,289,Hailakandi,Hailakandi,True,24.500048,92.628302,MultiPolygon,Survey of India
+18,Assam,709,Hojai,Hojai,True,25.967009,92.967449,MultiPolygon,Survey of India
+18,Assam,290,Jorhat,Jorhat,True,26.652197,94.252918,MultiPolygon,Survey of India
+18,Assam,291,Kamrup,Kamrup,True,26.130775,91.315098,MultiPolygon,Survey of India
+18,Assam,618,Kamrup Metro,Kamrup Metro,True,26.130607,91.875405,MultiPolygon,Survey of India
+18,Assam,292,Karbi Anglong,Karbi Anglong,True,26.075536,93.416096,MultiPolygon,Survey of India
+18,Assam,294,Kokrajhar,Kokrajhar,True,26.494858,90.115836,MultiPolygon,Survey of India
+18,Assam,295,Lakhimpur,Lakhimpur,True,27.15992,94.164208,MultiPolygon,Survey of India
+18,Assam,706,Majuli,Majuli,True,26.967679,94.266781,MultiPolygon,Survey of India
+18,Assam,296,Marigaon,Marigaon,True,26.294484,92.265838,MultiPolygon,Survey of India
+18,Assam,297,Nagaon,Nagaon,True,26.34564,92.761652,MultiPolygon,Survey of India
+18,Assam,298,Nalbari,Nalbari,True,26.361523,91.398068,MultiPolygon,Survey of India
+18,Assam,300,Sivasagar,Sivasagar,True,26.999001,94.622161,MultiPolygon,Survey of India
+18,Assam,301,Sonitpur,Sonitpur,True,26.753737,92.706769,MultiPolygon,Survey of India
+18,Assam,707,South Salmara Mancachar,South Salmara Mancachar,True,25.766562,89.894757,MultiPolygon,Survey of India
+18,Assam,293,Sribhumi,Karimganj,False,24.573488,92.374862,MultiPolygon,Survey of India
+18,Assam,302,Tinsukia,Tinsukia,True,27.612699,95.556276,MultiPolygon,Survey of India
+18,Assam,617,Udalguri,Udalguri,True,26.717054,92.034779,MultiPolygon,Survey of India
+18,Assam,710,West Karbi Anglong,West Karbi Anglong,True,25.850141,92.589892,MultiPolygon,Survey of India
+10,Bihar,188,Araria,Araria,True,26.252753,87.371452,MultiPolygon,Survey of India
+10,Bihar,611,Arwal,Arwal,True,25.183671,84.666446,MultiPolygon,Survey of India
+10,Bihar,189,Aurangabad,Aurangabad,True,24.798381,84.429743,MultiPolygon,Survey of India
+10,Bihar,190,Banka,Banka,True,24.834088,86.805052,MultiPolygon,Survey of India
+10,Bihar,191,Begusarai,Begusarai,True,25.515802,86.086056,MultiPolygon,Survey of India
+10,Bihar,192,Bhagalpur,Bhagalpur,True,25.283287,87.140022,MultiPolygon,Survey of India
+10,Bihar,193,Bhojpur,Bhojpur,True,25.461437,84.569893,MultiPolygon,Survey of India
+10,Bihar,194,Buxar,Buxar,True,25.507329,84.107358,MultiPolygon,Survey of India
+10,Bihar,195,Darbhanga,Darbhanga,True,26.083904,86.037368,MultiPolygon,Survey of India
+10,Bihar,196,Gaya,Gaya,True,24.674704,84.996867,MultiPolygon,Survey of India
+10,Bihar,197,Gopalganj,Gopalganj,True,26.427272,84.369824,MultiPolygon,Survey of India
+10,Bihar,198,Jamui,Jamui,True,24.76018,86.306792,MultiPolygon,Survey of India
+10,Bihar,199,Jehanabad,Jehanabad,True,25.152206,85.00027,MultiPolygon,Survey of India
+10,Bihar,200,Kaimur (Bhabua),Kaimur (Bhabua),True,24.978539,83.576779,MultiPolygon,Survey of India
+10,Bihar,201,Katihar,Katihar,True,25.556016,87.661114,MultiPolygon,Survey of India
+10,Bihar,202,Khagaria,Khagaria,True,25.487307,86.700431,MultiPolygon,Survey of India
+10,Bihar,203,Kishanganj,Kishanganj,True,26.309816,87.927164,MultiPolygon,Survey of India
+10,Bihar,204,Lakhisarai,Lakhisarai,True,25.15222,86.175047,MultiPolygon,Survey of India
+10,Bihar,205,Madhepura,Madhepura,True,25.773677,86.934728,MultiPolygon,Survey of India
+10,Bihar,206,Madhubani,Madhubani,True,26.350257,86.212948,MultiPolygon,Survey of India
+10,Bihar,207,Munger,Munger,True,25.22298,86.520452,MultiPolygon,Survey of India
+10,Bihar,208,Muzaffarpur,Muzaffarpur,True,26.154722,85.34203,MultiPolygon,Survey of India
+10,Bihar,209,Nalanda,Nalanda,True,25.208248,85.450906,MultiPolygon,Survey of India
+10,Bihar,210,Nawada,Nawada,True,24.82023,85.517575,MultiPolygon,Survey of India
+10,Bihar,211,Pashchim Champaran,Pashchim Champaran,True,27.050878,84.331454,MultiPolygon,Survey of India
+10,Bihar,212,Patna,Patna,True,25.460266,85.084013,MultiPolygon,Survey of India
+10,Bihar,213,Purbi Champaran,Purbi Champaran,True,26.637168,84.905843,MultiPolygon,Survey of India
+10,Bihar,214,Purnia,Purnia,True,25.777638,87.364864,MultiPolygon,Survey of India
+10,Bihar,215,Rohtas,Rohtas,True,24.935981,84.017913,MultiPolygon,Survey of India
+10,Bihar,216,Saharsa,Saharsa,True,25.827521,86.620595,MultiPolygon,Survey of India
+10,Bihar,217,Samastipur,Samastipur,True,25.767634,85.867652,MultiPolygon,Survey of India
+10,Bihar,218,Saran,Saran,True,25.918652,84.780205,MultiPolygon,Survey of India
+10,Bihar,219,Sheikhpura,Sheikhpura,True,25.12431,85.814252,MultiPolygon,Survey of India
+10,Bihar,220,Sheohar,Sheohar,True,26.495804,85.272578,MultiPolygon,Survey of India
+10,Bihar,221,Sitamarhi,Sitamarhi,True,26.56925,85.597289,MultiPolygon,Survey of India
+10,Bihar,222,Siwan,Siwan,True,26.132834,84.372415,MultiPolygon,Survey of India
+10,Bihar,223,Supaul,Supaul,True,26.276485,86.798664,MultiPolygon,Survey of India
+10,Bihar,224,Vaishali,Vaishali,True,25.753065,85.395281,MultiPolygon,Survey of India
+4,Chandigarh,44,Chandigarh,Chandigarh,True,30.730906,76.782065,MultiPolygon,Survey of India
+22,Chhattisgarh,646,Balod,Balod,True,20.727651,81.147167,MultiPolygon,Survey of India
+22,Chhattisgarh,644,Balodabazar-Bhatapara,Baloda Bazar,False,21.569831,82.429366,MultiPolygon,Survey of India
+22,Chhattisgarh,649,Balrampur-Ramanujganj,Balrampur,False,23.631887,83.483656,MultiPolygon,Survey of India
+22,Chhattisgarh,374,Bastar,Bastar,True,19.125457,81.831428,MultiPolygon,Survey of India
+22,Chhattisgarh,650,Bemetara,Bemetara,True,21.679579,81.432969,MultiPolygon,Survey of India
+22,Chhattisgarh,636,Bijapur,Bijapur,True,18.770254,80.741137,MultiPolygon,Survey of India
+22,Chhattisgarh,375,Bilaspur,Bilaspur,True,22.170243,82.130176,MultiPolygon,Survey of India
+22,Chhattisgarh,376,Dakshin Bastar Dantewada,Dantewada,False,18.784307,81.480413,MultiPolygon,Survey of India
+22,Chhattisgarh,377,Dhamtari,Dhamtari,True,20.535557,81.716048,MultiPolygon,Survey of India
+22,Chhattisgarh,378,Durg,Durg,True,21.196544,81.400678,MultiPolygon,Survey of India
+22,Chhattisgarh,645,Gariyaband,Gariyaband,True,20.429856,82.250015,MultiPolygon,Survey of India
+22,Chhattisgarh,734,Gaurela-Pendra-Marwahi,Gaurella Pendra Marwahi,False,22.833604,81.961389,MultiPolygon,Survey of India
+22,Chhattisgarh,379,Janjgir-Champa,Janjgir-Champa,True,21.978182,82.66157,MultiPolygon,Survey of India
+22,Chhattisgarh,380,Jashpur,Jashpur,True,22.766279,83.953423,MultiPolygon,Survey of India
+22,Chhattisgarh,382,Kabeerdham,Kabirdham,False,22.114932,81.246502,MultiPolygon,Survey of India
+22,Chhattisgarh,643,Kondagaon,Kondagaon,True,19.707192,81.740959,MultiPolygon,Survey of India
+22,Chhattisgarh,383,Korba,Korba,True,22.518129,82.635037,MultiPolygon,Survey of India
+22,Chhattisgarh,384,Korea,Korea,True,23.426758,82.318914,MultiPolygon,Survey of India
+22,Chhattisgarh,385,Mahasamund,Mahasamund,True,21.194502,82.485075,MultiPolygon,Survey of India
+22,Chhattisgarh,647,Mungeli,Mungeli,True,22.245968,81.653042,MultiPolygon,Survey of India
+22,Chhattisgarh,637,Narayanpur,Narayanpur,True,19.523654,81.167003,MultiPolygon,Survey of India
+22,Chhattisgarh,386,Raigarh,Raigarh,True,22.066791,83.308654,MultiPolygon,Survey of India
+22,Chhattisgarh,387,Raipur,Raipur,True,21.283518,81.812814,MultiPolygon,Survey of India
+22,Chhattisgarh,388,Rajnandgaon,Rajnandgaon,True,20.976366,80.692732,MultiPolygon,Survey of India
+22,Chhattisgarh,642,Sukma,Sukma,True,18.266881,81.291632,MultiPolygon,Survey of India
+22,Chhattisgarh,648,Surajpur,Surajpur,True,23.353418,82.974375,MultiPolygon,Survey of India
+22,Chhattisgarh,389,Surguja,Surguja,True,22.954446,83.168978,MultiPolygon,Survey of India
+22,Chhattisgarh,381,Uttar Bastar Kanker,Kanker,False,20.132637,80.986261,MultiPolygon,Survey of India
+7,Delhi,77,Central,Central,True,28.700424,77.220912,MultiPolygon,Survey of India
+7,Delhi,78,East,East,True,28.614482,77.298552,MultiPolygon,Survey of India
+7,Delhi,79,New Delhi,New Delhi,True,28.563633,77.121185,MultiPolygon,Survey of India
+7,Delhi,80,North,North,True,28.783403,77.104343,MultiPolygon,Survey of India
+7,Delhi,81,North East,North East,True,28.726831,77.261143,MultiPolygon,Survey of India
+7,Delhi,82,North West,North West,True,28.736432,77.012843,MultiPolygon,Survey of India
+7,Delhi,83,South,South,True,28.493681,77.197233,MultiPolygon,Survey of India
+7,Delhi,670,South East,South East,True,28.545026,77.273816,MultiPolygon,Survey of India
+7,Delhi,84,South West,South West,True,28.586297,76.969849,MultiPolygon,Survey of India
+7,Delhi,85,West,West,True,28.649966,77.089882,MultiPolygon,Survey of India
+30,Goa,551,North Goa,North Goa,True,15.536149,74.018783,MultiPolygon,Survey of India
+30,Goa,552,South Goa,South Goa,True,15.193955,74.12307,MultiPolygon,Survey of India
+24,Gujarat,438,Ahmedabad,Ahmadabad,False,22.704291,72.318577,MultiPolygon,Survey of India
+24,Gujarat,439,Amreli,Amreli,True,21.419834,71.281028,MultiPolygon,Survey of India
+24,Gujarat,440,Anand,Anand,True,22.434085,72.728564,MultiPolygon,Survey of India
+24,Gujarat,672,Arvalli,Arvalli,True,23.488256,73.403537,MultiPolygon,Survey of India
+24,Gujarat,441,Banas Kantha,Banas Kantha,True,24.281036,72.121321,MultiPolygon,Survey of India
+24,Gujarat,442,Bharuch,Bharuch,True,21.818202,72.868123,MultiPolygon,Survey of India
+24,Gujarat,443,Bhavnagar,Bhavnagar,True,21.562045,71.887897,MultiPolygon,Survey of India
+24,Gujarat,676,Botad,Botad,True,22.047946,71.651809,MultiPolygon,Survey of India
+24,Gujarat,668,Chhotaudepur,Chhotaudepur,True,22.2148,73.786396,MultiPolygon,Survey of India
+24,Gujarat,445,Dahod,Dohad,False,22.926486,74.125281,MultiPolygon,Survey of India
+24,Gujarat,444,Dangs,Dang,False,20.791792,73.711656,MultiPolygon,Survey of India
+24,Gujarat,674,Devbhumi Dwarka,Devbhumi Dwarka,True,22.141297,69.441257,MultiPolygon,Survey of India
+24,Gujarat,446,Gandhinagar,Gandhinagar,True,23.277489,72.652095,MultiPolygon,Survey of India
+24,Gujarat,675,Gir Somnath,Gir Somnath,True,20.996062,70.702492,MultiPolygon,Survey of India
+24,Gujarat,447,Jamnagar,Jamnagar,True,22.322991,70.089195,MultiPolygon,Survey of India
+24,Gujarat,448,Junagadh,Junagadh,True,21.356753,70.430288,MultiPolygon,Survey of India
+24,Gujarat,449,Kachchh,Kachchh,True,23.668965,69.751687,Polygon,Survey of India
+24,Gujarat,450,Kheda,Kheda,True,22.857796,72.990613,MultiPolygon,Survey of India
+24,Gujarat,451,Mahesana,Mahesana,True,23.563859,72.386277,MultiPolygon,Survey of India
+24,Gujarat,669,Mahisagar,Mahisagar,True,23.197237,73.655127,MultiPolygon,Survey of India
+24,Gujarat,673,Morbi,Morbi,True,22.796345,70.876071,MultiPolygon,Survey of India
+24,Gujarat,452,Narmada,Narmada,True,21.737288,73.61887,MultiPolygon,Survey of India
+24,Gujarat,453,Navsari,Navsari,True,20.827218,73.034478,MultiPolygon,Survey of India
+24,Gujarat,454,Panch Mahals,Panch Mahals,True,22.692462,73.61549,MultiPolygon,Survey of India
+24,Gujarat,455,Patan,Patan,True,23.763014,71.757812,MultiPolygon,Survey of India
+24,Gujarat,456,Porbandar,Porbandar,True,21.604355,69.844862,MultiPolygon,Survey of India
+24,Gujarat,457,Rajkot,Rajkot,True,22.107016,71.026959,MultiPolygon,Survey of India
+24,Gujarat,458,Sabar Kantha,Sabar Kantha,True,23.868735,73.012184,MultiPolygon,Survey of India
+24,Gujarat,459,Surat,Surat,True,21.182496,72.960193,MultiPolygon,Survey of India
+24,Gujarat,460,Surendranagar,Surendranagar,True,22.826051,71.555994,MultiPolygon,Survey of India
+24,Gujarat,641,Tapi,Tapi,True,21.174163,73.442441,MultiPolygon,Survey of India
+24,Gujarat,461,Vadodara,Vadodara,True,22.318137,73.299879,MultiPolygon,Survey of India
+24,Gujarat,462,Valsad,Valsad,True,20.440683,73.146113,MultiPolygon,Survey of India
+6,Haryana,58,Ambala,Ambala,True,30.341056,76.949265,MultiPolygon,Survey of India
+6,Haryana,59,Bhiwani,Bhiwani,True,28.731356,75.897124,MultiPolygon,Survey of India
+6,Haryana,701,Charkhi Dadri,Charki Dadri,False,28.598897,76.10403,MultiPolygon,Survey of India
+6,Haryana,60,Faridabad,Faridabad,True,28.35624,77.327138,MultiPolygon,Survey of India
+6,Haryana,61,Fatehabad,Fatehabad,True,29.537034,75.575162,MultiPolygon,Survey of India
+6,Haryana,62,Gurugram,Gurugram,True,28.367565,76.940417,MultiPolygon,Survey of India
+6,Haryana,63,Hisar,Hisar,True,29.238388,75.806863,MultiPolygon,Survey of India
+6,Haryana,64,Jhajjar,Jhajjar,True,28.59673,76.649955,MultiPolygon,Survey of India
+6,Haryana,65,Jind,Jind,True,29.448516,76.240435,MultiPolygon,Survey of India
+6,Haryana,66,Kaithal,Kaithal,True,29.853476,76.455525,MultiPolygon,Survey of India
+6,Haryana,67,Karnal,Karnal,True,29.707243,76.91575,MultiPolygon,Survey of India
+6,Haryana,68,Kurukshetra,Kurukshetra,True,30.059972,76.759,MultiPolygon,Survey of India
+6,Haryana,69,Mahendragarh,Mahendragarh,True,28.132427,76.167676,MultiPolygon,Survey of India
+6,Haryana,604,Nuh,Nuh,True,27.995249,77.040535,MultiPolygon,Survey of India
+6,Haryana,619,Palwal,Palwal,True,28.059979,77.323719,MultiPolygon,Survey of India
+6,Haryana,70,Panchkula,Panchkula,True,30.701016,76.985118,MultiPolygon,Survey of India
+6,Haryana,71,Panipat,Panipat,True,29.345731,76.887057,MultiPolygon,Survey of India
+6,Haryana,72,Rewari,Rewari,True,28.220011,76.551703,MultiPolygon,Survey of India
+6,Haryana,73,Rohtak,Rohtak,True,28.893194,76.590583,MultiPolygon,Survey of India
+6,Haryana,74,Sirsa,Sirsa,True,29.605805,74.898524,MultiPolygon,Survey of India
+6,Haryana,75,Sonipat,Sonipat,True,29.044746,76.924664,MultiPolygon,Survey of India
+6,Haryana,76,Yamunanagar,Yamunanagar,True,30.214288,77.28762,MultiPolygon,Survey of India
+2,Himachal Pradesh,15,Bilaspur,Bilaspur,True,31.401641,76.641456,MultiPolygon,Survey of India
+2,Himachal Pradesh,16,Chamba,Chamba,True,32.683414,76.162482,MultiPolygon,Survey of India
+2,Himachal Pradesh,17,Hamirpur,Hamirpur,True,31.65316,76.542675,MultiPolygon,Survey of India
+2,Himachal Pradesh,18,Kangra,Kangra,True,32.070722,76.319542,MultiPolygon,Survey of India
+2,Himachal Pradesh,19,Kinnaur,Kinnaur,True,31.58795,78.337198,MultiPolygon,Survey of India
+2,Himachal Pradesh,20,Kullu,Kullu,True,31.880554,77.456932,MultiPolygon,Survey of India
+2,Himachal Pradesh,21,Lahaul And Spiti,Lahul And Spiti,False,32.507052,77.581341,MultiPolygon,Survey of India
+2,Himachal Pradesh,22,Mandi,Mandi,True,31.652922,77.010546,MultiPolygon,Survey of India
+2,Himachal Pradesh,23,Shimla,Shimla,True,31.23979,77.701528,MultiPolygon,Survey of India
+2,Himachal Pradesh,24,Sirmaur,Sirmaur,True,30.699041,77.452762,MultiPolygon,Survey of India
+2,Himachal Pradesh,25,Solan,Solan,True,31.054298,76.847281,MultiPolygon,Survey of India
+2,Himachal Pradesh,26,Una,Una,True,31.58574,76.233959,MultiPolygon,Survey of India
+1,Jammu And Kashmir,1,Anantnag,Anantnag,True,33.80795,75.253891,MultiPolygon,Survey of India
+1,Jammu And Kashmir,623,Bandipora,Bandipora,True,34.451368,74.704453,MultiPolygon,Survey of India
+1,Jammu And Kashmir,3,Baramulla,Baramulla,True,34.164955,74.286321,MultiPolygon,Survey of India
+1,Jammu And Kashmir,2,Budgam,Budgam,True,33.905789,74.624141,MultiPolygon,Survey of India
+1,Jammu And Kashmir,4,Doda,Doda,True,33.136283,75.598834,MultiPolygon,Survey of India
+1,Jammu And Kashmir,626,Ganderbal,Ganderbal,True,34.25855,75.07852,MultiPolygon,Survey of India
+1,Jammu And Kashmir,5,Jammu,Jammu,True,32.77528,74.917451,MultiPolygon,Survey of India
+1,Jammu And Kashmir,7,Kathua,Kathua,True,32.58209,75.601088,MultiPolygon,Survey of India
+1,Jammu And Kashmir,620,Kishtwar,Kishtwar,True,33.615996,75.88181,MultiPolygon,Survey of India
+1,Jammu And Kashmir,622,Kulgam,Kulgam,True,33.6169,74.818508,MultiPolygon,Survey of India
+1,Jammu And Kashmir,8,Kupwara,Kupwara,True,34.521038,74.213325,MultiPolygon,Survey of India
+1,Jammu And Kashmir,10,Poonch,Poonch,True,33.776517,74.022393,MultiPolygon,Survey of India
+1,Jammu And Kashmir,11,Pulwama,Pulwama,True,33.943188,75.035626,MultiPolygon,Survey of India
+1,Jammu And Kashmir,12,Rajouri,Rajouri,True,33.266001,74.332222,MultiPolygon,Survey of India
+1,Jammu And Kashmir,621,Ramban,Ramban,True,33.312702,75.196003,MultiPolygon,Survey of India
+1,Jammu And Kashmir,627,Reasi,Reasi,True,33.207891,74.85512,MultiPolygon,Survey of India
+1,Jammu And Kashmir,624,Samba,Samba,True,32.577501,75.144877,MultiPolygon,Survey of India
+1,Jammu And Kashmir,625,Shopian,Shopian,True,33.721404,74.76746,MultiPolygon,Survey of India
+1,Jammu And Kashmir,13,Srinagar,Srinagar,True,34.115094,74.789746,MultiPolygon,Survey of India
+1,Jammu And Kashmir,14,Udhampur,Udhampur,True,32.913835,75.33105,MultiPolygon,Survey of India
+20,Jharkhand,322,Bokaro,Bokaro,True,23.69789,86.000589,MultiPolygon,Survey of India
+20,Jharkhand,323,Chatra,Chatra,True,24.099353,84.879939,MultiPolygon,Survey of India
+20,Jharkhand,324,Deoghar,Deoghar,True,24.336265,86.716302,MultiPolygon,Survey of India
+20,Jharkhand,325,Dhanbad,Dhanbad,True,23.84385,86.471715,MultiPolygon,Survey of India
+20,Jharkhand,326,Dumka,Dumka,True,24.31305,87.275713,MultiPolygon,Survey of India
+20,Jharkhand,327,East Singhbum,East Singhbum,True,22.61983,86.393068,MultiPolygon,Survey of India
+20,Jharkhand,328,Garhwa,Garhwa,True,24.059123,83.649853,MultiPolygon,Survey of India
+20,Jharkhand,329,Giridih,Giridih,True,24.328785,86.158105,MultiPolygon,Survey of India
+20,Jharkhand,330,Godda,Godda,True,24.868573,87.308543,MultiPolygon,Survey of India
+20,Jharkhand,331,Gumla,Gumla,True,23.161808,84.463261,MultiPolygon,Survey of India
+20,Jharkhand,332,Hazaribagh,Hazaribagh,True,24.083845,85.494921,MultiPolygon,Survey of India
+20,Jharkhand,333,Jamtara,Jamtara,True,23.982047,86.887934,MultiPolygon,Survey of India
+20,Jharkhand,606,Khunti,Khunti,True,22.923235,85.292211,MultiPolygon,Survey of India
+20,Jharkhand,334,Koderma,Koderma,True,24.54516,85.696513,MultiPolygon,Survey of India
+20,Jharkhand,335,Latehar,Latehar,True,23.686661,84.493081,MultiPolygon,Survey of India
+20,Jharkhand,336,Lohardaga,Lohardaga,True,23.475935,84.696334,MultiPolygon,Survey of India
+20,Jharkhand,337,Pakur,Pakur,True,24.532725,87.60682,MultiPolygon,Survey of India
+20,Jharkhand,338,Palamu,Palamu,True,24.213297,84.175711,MultiPolygon,Survey of India
+20,Jharkhand,607,Ramgarh,Ramgarh,True,23.700544,85.519957,MultiPolygon,Survey of India
+20,Jharkhand,339,Ranchi,Ranchi,True,23.302589,85.375775,MultiPolygon,Survey of India
+20,Jharkhand,340,Sahebganj,Sahebganj,True,25.031942,87.699506,MultiPolygon,Survey of India
+20,Jharkhand,341,Saraikela Kharsawan,Saraikela Kharsawan,True,22.82513,85.906452,MultiPolygon,Survey of India
+20,Jharkhand,342,Simdega,Simdega,True,22.584435,84.563551,MultiPolygon,Survey of India
+20,Jharkhand,343,West Singhbhum,West Singhbhum,True,22.431258,85.540167,MultiPolygon,Survey of India
+29,Karnataka,524,Bagalkote,Bagalkote,True,16.289435,75.561605,MultiPolygon,Survey of India
+29,Karnataka,528,Ballari,Ballari,True,15.194933,76.631247,MultiPolygon,Survey of India
+29,Karnataka,527,Belagavi,Belagavi,True,16.157969,74.887712,MultiPolygon,Survey of India
+29,Karnataka,526,Bengaluru Rural,Bengaluru Rural,True,13.177896,77.339781,MultiPolygon,Survey of India
+29,Karnataka,631,Bengaluru South,Ramanagara,False,12.71988,77.316882,MultiPolygon,Survey of India
+29,Karnataka,525,Bengaluru Urban,Bengaluru Urban,True,12.944593,77.553464,MultiPolygon,Survey of India
+29,Karnataka,529,Bidar,Bidar,True,18.014609,77.244923,MultiPolygon,Survey of India
+29,Karnataka,531,Chamarajanagar,Chamarajanagara,False,11.95538,77.120127,MultiPolygon,Survey of India
+29,Karnataka,630,Chikkaballapura,Chikkaballapura,True,13.587756,77.78568,MultiPolygon,Survey of India
+29,Karnataka,532,Chikkamagaluru,Chikkamagaluru,True,13.401246,75.632929,MultiPolygon,Survey of India
+29,Karnataka,533,Chitradurga,Chitradurga,True,14.305281,76.523887,MultiPolygon,Survey of India
+29,Karnataka,534,Dakshina Kannada,Dakshina Kannada,True,12.816396,75.229488,MultiPolygon,Survey of India
+29,Karnataka,535,Davanagere,Davangere,False,14.366248,75.887359,MultiPolygon,Survey of India
+29,Karnataka,536,Dharwad,Dharwad,True,15.366821,75.134473,MultiPolygon,Survey of India
+29,Karnataka,537,Gadag,Gadag,True,15.417399,75.681158,MultiPolygon,Survey of India
+29,Karnataka,539,Hassan,Hassan,True,13.026791,76.121311,MultiPolygon,Survey of India
+29,Karnataka,540,Haveri,Haveri,True,14.718447,75.367186,MultiPolygon,Survey of India
+29,Karnataka,538,Kalaburagi,Kalaburagi,True,17.245884,76.788575,MultiPolygon,Survey of India
+29,Karnataka,541,Kodagu,Kodagu,True,12.374744,75.676915,MultiPolygon,Survey of India
+29,Karnataka,542,Kolar,Kolar,True,13.179719,78.265363,MultiPolygon,Survey of India
+29,Karnataka,543,Koppal,Koppal,True,15.581949,76.282824,MultiPolygon,Survey of India
+29,Karnataka,544,Mandya,Mandya,True,12.633487,76.731702,MultiPolygon,Survey of India
+29,Karnataka,545,Mysuru,Mysuru,True,12.203524,76.632408,MultiPolygon,Survey of India
+29,Karnataka,546,Raichur,Raichur,True,16.054602,76.903542,MultiPolygon,Survey of India
+29,Karnataka,547,Shivamogga,Shivamogga,True,14.056038,75.108569,MultiPolygon,Survey of India
+29,Karnataka,548,Tumakuru,Tumakuru,True,13.415196,76.879841,MultiPolygon,Survey of India
+29,Karnataka,549,Udupi,Udupi,True,13.531703,74.866371,MultiPolygon,Survey of India
+29,Karnataka,550,Uttara Kannada,Uttara Kannada,True,14.732703,74.654714,MultiPolygon,Survey of India
+29,Karnataka,530,Vijayapura,Vijayapura,True,16.811451,75.866933,MultiPolygon,Survey of India
+29,Karnataka,635,Yadgir,Yadgir,True,16.579496,76.944004,MultiPolygon,Survey of India
+32,Kerala,554,Alappuzha,Alappuzha,True,9.499801,76.407901,MultiPolygon,Survey of India
+32,Kerala,555,Ernakulam,Ernakulam,True,10.047356,76.495592,MultiPolygon,Survey of India
+32,Kerala,556,Idukki,Idukki,True,9.810845,77.011351,MultiPolygon,Survey of India
+32,Kerala,557,Kannur,Kannur,True,11.985945,75.548933,MultiPolygon,Survey of India
+32,Kerala,558,Kasaragod,Kasaragod,True,12.423493,75.191536,MultiPolygon,Survey of India
+32,Kerala,559,Kollam,Kollam,True,8.96455,76.85435,MultiPolygon,Survey of India
+32,Kerala,560,Kottayam,Kottayam,True,9.630825,76.659831,MultiPolygon,Survey of India
+32,Kerala,561,Kozhikode,Kozhikode,True,11.467272,75.893205,MultiPolygon,Survey of India
+32,Kerala,562,Malappuram,Malappuram,True,11.106895,76.117566,MultiPolygon,Survey of India
+32,Kerala,563,Palakkad,Palakkad,True,10.782643,76.566535,MultiPolygon,Survey of India
+32,Kerala,564,Pathanamthitta,Pathanamthitta,True,9.277916,76.95732,MultiPolygon,Survey of India
+32,Kerala,565,Thiruvananthapuram,Thiruvananthapuram,True,8.578934,77.049846,MultiPolygon,Survey of India
+32,Kerala,566,Thrissur,Thrissur,True,10.478553,76.272218,MultiPolygon,Survey of India
+32,Kerala,567,Wayanad,Wayanad,True,11.714728,76.135021,MultiPolygon,Survey of India
+37,Ladakh,6,Kargil,Kargil,True,33.801159,76.45371,MultiPolygon,Survey of India
+37,Ladakh,9,Leh Ladakh,Leh Ladakh,True,34.755046,78.244549,MultiPolygon,Survey of India
+31,Lakshadweep,553,Lakshadweep District,Lakshadweep District,True,11.275996,74.044189,MultiPolygon,Survey of India
+23,Madhya Pradesh,667,Agar-Malwa,Agar Malwa,True,23.935069,76.145476,Polygon,Survey of India
+23,Madhya Pradesh,639,Alirajpur,Alirajpur,True,22.290461,74.358547,MultiPolygon,Survey of India
+23,Madhya Pradesh,390,Anuppur,Anuppur,True,23.041202,81.38797,MultiPolygon,Survey of India
+23,Madhya Pradesh,391,Ashoknagar,Ashoknagar,True,24.618657,77.876509,MultiPolygon,Survey of India
+23,Madhya Pradesh,392,Balaghat,Balaghat,True,21.862332,80.325207,MultiPolygon,Survey of India
+23,Madhya Pradesh,393,Barwani,Barwani,True,21.733949,74.892937,MultiPolygon,Survey of India
+23,Madhya Pradesh,394,Betul,Betul,True,21.878393,77.875756,MultiPolygon,Survey of India
+23,Madhya Pradesh,395,Bhind,Bhind,True,26.350738,78.698462,MultiPolygon,Survey of India
+23,Madhya Pradesh,396,Bhopal,Bhopal,True,23.484802,77.394025,MultiPolygon,Survey of India
+23,Madhya Pradesh,397,Burhanpur,Burhanpur,True,21.335753,76.375305,MultiPolygon,Survey of India
+23,Madhya Pradesh,398,Chhatarpur,Chhatarpur,True,24.761425,79.679077,MultiPolygon,Survey of India
+23,Madhya Pradesh,399,Chhindwara,Chhindwara,True,22.138449,78.813763,MultiPolygon,Survey of India
+23,Madhya Pradesh,400,Damoh,Damoh,True,23.798624,79.541405,MultiPolygon,Survey of India
+23,Madhya Pradesh,401,Datia,Datia,True,25.86409,78.633758,MultiPolygon,Survey of India
+23,Madhya Pradesh,402,Dewas,Dewas,True,22.805818,76.294537,MultiPolygon,Survey of India
+23,Madhya Pradesh,403,Dhar,Dhar,True,22.590223,75.237942,MultiPolygon,Survey of India
+23,Madhya Pradesh,404,Dindori,Dindori,True,22.908488,80.88985,MultiPolygon,Survey of India
+23,Madhya Pradesh,406,Guna,Guna,True,24.499489,77.258294,MultiPolygon,Survey of India
+23,Madhya Pradesh,407,Gwalior,Gwalior,True,26.028325,78.156765,MultiPolygon,Survey of India
+23,Madhya Pradesh,408,Harda,Harda,True,22.241139,77.10567,MultiPolygon,Survey of India
+23,Madhya Pradesh,410,Indore,Indore,True,22.715477,75.806379,MultiPolygon,Survey of India
+23,Madhya Pradesh,411,Jabalpur,Jabalpur,True,23.223337,79.982097,MultiPolygon,Survey of India
+23,Madhya Pradesh,412,Jhabua,Jhabua,True,22.890628,74.729129,MultiPolygon,Survey of India
+23,Madhya Pradesh,413,Katni,Katni,True,23.718498,80.260965,MultiPolygon,Survey of India
+23,Madhya Pradesh,405,Khandwa (East Nimar),East Nimar,False,21.980651,76.515989,MultiPolygon,Survey of India
+23,Madhya Pradesh,414,Khargone (West Nimar),Khargone,False,21.946263,75.747213,MultiPolygon,Survey of India
+23,Madhya Pradesh,415,Mandla,Mandla,True,22.687135,80.583077,MultiPolygon,Survey of India
+23,Madhya Pradesh,416,Mandsaur,Mandsaur,True,24.264679,75.377258,MultiPolygon,Survey of India
+23,Madhya Pradesh,417,Morena,Morena,True,26.383405,77.864866,MultiPolygon,Survey of India
+23,Madhya Pradesh,409,Narmadapuram,Narmadapuram,True,22.600818,77.925381,MultiPolygon,Survey of India
+23,Madhya Pradesh,418,Narsimhapur,Narsinghpur,False,22.935243,79.087072,MultiPolygon,Survey of India
+23,Madhya Pradesh,419,Neemuch,Neemuch,True,24.634668,75.199478,MultiPolygon,Survey of India
+23,Madhya Pradesh,722,Niwari,Niwari,True,25.30528,78.663159,MultiPolygon,Survey of India
+23,Madhya Pradesh,420,Panna,Panna,True,24.450144,80.146153,MultiPolygon,Survey of India
+23,Madhya Pradesh,421,Raisen,Raisen,True,23.266783,78.179434,MultiPolygon,Survey of India
+23,Madhya Pradesh,422,Rajgarh,Rajgarh,True,23.871342,76.779574,MultiPolygon,Survey of India
+23,Madhya Pradesh,423,Ratlam,Ratlam,True,23.489472,74.921838,MultiPolygon,Survey of India
+23,Madhya Pradesh,424,Rewa,Rewa,True,24.753987,81.651204,MultiPolygon,Survey of India
+23,Madhya Pradesh,425,Sagar,Sagar,True,23.809472,78.76066,MultiPolygon,Survey of India
+23,Madhya Pradesh,426,Satna,Satna,True,24.576947,80.809829,MultiPolygon,Survey of India
+23,Madhya Pradesh,427,Sehore,Sehore,True,23.113261,77.066995,MultiPolygon,Survey of India
+23,Madhya Pradesh,428,Seoni,Seoni,True,22.275308,79.721115,MultiPolygon,Survey of India
+23,Madhya Pradesh,429,Shahdol,Shahdol,True,23.654098,81.43066,MultiPolygon,Survey of India
+23,Madhya Pradesh,430,Shajapur,Shajapur,True,23.416888,76.610779,MultiPolygon,Survey of India
+23,Madhya Pradesh,431,Sheopur,Sheopur,True,25.747918,76.921261,MultiPolygon,Survey of India
+23,Madhya Pradesh,432,Shivpuri,Shivpuri,True,25.373792,77.833676,MultiPolygon,Survey of India
+23,Madhya Pradesh,433,Sidhi,Sidhi,True,24.215058,81.699886,MultiPolygon,Survey of India
+23,Madhya Pradesh,638,Singrauli,Singrauli,True,24.24473,82.386301,MultiPolygon,Survey of India
+23,Madhya Pradesh,434,Tikamgarh,Tikamgarh,True,24.855751,79.048345,MultiPolygon,Survey of India
+23,Madhya Pradesh,435,Ujjain,Ujjain,True,23.296469,75.634427,MultiPolygon,Survey of India
+23,Madhya Pradesh,436,Umaria,Umaria,True,23.643638,80.940708,MultiPolygon,Survey of India
+23,Madhya Pradesh,437,Vidisha,Vidisha,True,23.848654,77.831291,MultiPolygon,Survey of India
+27,Maharashtra,466,Ahilyanagar,Ahmednagar,False,19.168094,74.830921,MultiPolygon,Survey of India
+27,Maharashtra,467,Akola,Akola,True,20.765715,77.190653,MultiPolygon,Survey of India
+27,Maharashtra,468,Amravati,Amravati,True,21.154465,77.638162,MultiPolygon,Survey of India
+27,Maharashtra,470,Beed,Beed,True,18.985801,75.689498,MultiPolygon,Survey of India
+27,Maharashtra,471,Bhandara,Bhandara,True,21.122748,79.792555,MultiPolygon,Survey of India
+27,Maharashtra,472,Buldhana,Buldhana,True,20.557512,76.397979,MultiPolygon,Survey of India
+27,Maharashtra,473,Chandrapur,Chandrapur,True,20.096751,79.50436,MultiPolygon,Survey of India
+27,Maharashtra,469,Chhatrapati Sambhajinagar,Aurangabad,False,20.008402,75.137216,MultiPolygon,Survey of India
+27,Maharashtra,488,Dharashiv,Osmanabad,False,18.172567,76.118017,MultiPolygon,Survey of India
+27,Maharashtra,474,Dhule,Dhule,True,21.116026,74.426023,MultiPolygon,Survey of India
+27,Maharashtra,475,Gadchiroli,Gadchiroli,True,19.757154,80.163368,MultiPolygon,Survey of India
+27,Maharashtra,476,Gondia,Gondia,True,21.145428,80.268319,MultiPolygon,Survey of India
+27,Maharashtra,477,Hingoli,Hingoli,True,19.624395,77.192984,MultiPolygon,Survey of India
+27,Maharashtra,478,Jalgaon,Jalgaon,True,20.856821,75.53862,MultiPolygon,Survey of India
+27,Maharashtra,479,Jalna,Jalna,True,19.912698,75.857179,MultiPolygon,Survey of India
+27,Maharashtra,480,Kolhapur,Kolhapur,True,16.463895,74.087752,MultiPolygon,Survey of India
+27,Maharashtra,481,Latur,Latur,True,18.351876,76.755215,MultiPolygon,Survey of India
+27,Maharashtra,482,Mumbai,Mumbai,True,18.970961,72.828447,MultiPolygon,Survey of India
+27,Maharashtra,483,Mumbai Suburban,Mumbai Suburban,True,19.129488,72.895175,MultiPolygon,Survey of India
+27,Maharashtra,484,Nagpur,Nagpur,True,21.151147,79.016926,MultiPolygon,Survey of India
+27,Maharashtra,485,Nanded,Nanded,True,19.088877,77.479907,MultiPolygon,Survey of India
+27,Maharashtra,486,Nandurbar,Nandurbar,True,21.532921,74.540103,MultiPolygon,Survey of India
+27,Maharashtra,487,Nashik,Nashik,True,20.235578,74.176732,MultiPolygon,Survey of India
+27,Maharashtra,665,Palghar,Palghar,True,19.76521,73.059865,MultiPolygon,Survey of India
+27,Maharashtra,489,Parbhani,Parbhani,True,19.287048,76.622668,MultiPolygon,Survey of India
+27,Maharashtra,490,Pune,Pune,True,18.625661,73.903176,MultiPolygon,Survey of India
+27,Maharashtra,491,Raigad,Raigad,True,18.480054,73.134142,MultiPolygon,Survey of India
+27,Maharashtra,492,Ratnagiri,Ratnagiri,True,17.285595,73.440103,MultiPolygon,Survey of India
+27,Maharashtra,493,Sangli,Sangli,True,17.163542,74.57619,MultiPolygon,Survey of India
+27,Maharashtra,494,Satara,Satara,True,17.649606,74.2995,MultiPolygon,Survey of India
+27,Maharashtra,495,Sindhudurg,Sindhudurg,True,16.12498,73.653521,MultiPolygon,Survey of India
+27,Maharashtra,496,Solapur,Solapur,True,17.849828,75.275632,MultiPolygon,Survey of India
+27,Maharashtra,497,Thane,Thane,True,19.365957,73.362207,MultiPolygon,Survey of India
+27,Maharashtra,498,Wardha,Wardha,True,20.828343,78.593701,MultiPolygon,Survey of India
+27,Maharashtra,499,Washim,Washim,True,20.289759,77.237868,MultiPolygon,Survey of India
+27,Maharashtra,500,Yavatmal,Yavatmal,True,20.067839,78.340755,MultiPolygon,Survey of India
+14,Manipur,252,Bishnupur,Bishnupur,True,24.53456,93.790075,MultiPolygon,Survey of India
+14,Manipur,253,Chandel,Chandel,True,24.165176,94.013072,MultiPolygon,Survey of India
+14,Manipur,254,Churachandpur,Churachandpur,True,24.271673,93.673729,MultiPolygon,Survey of India
+14,Manipur,255,Imphal East,Imphal East,True,24.877443,94.021353,MultiPolygon,Survey of India
+14,Manipur,256,Imphal West,Imphal West,True,24.764456,93.863216,MultiPolygon,Survey of India
+14,Manipur,713,Jiribam,Jiribam,True,24.713755,93.116349,MultiPolygon,Survey of India
+14,Manipur,711,Kakching,Kakching,True,24.395408,93.885999,MultiPolygon,Survey of India
+14,Manipur,717,Kamjong,Kamjong,True,24.813454,94.388823,MultiPolygon,Survey of India
+14,Manipur,712,Kangpokpi,Kangpokpi,True,24.969174,94.083412,MultiPolygon,Survey of India
+14,Manipur,714,Noney,Noney,True,24.654675,93.495244,MultiPolygon,Survey of India
+14,Manipur,715,Pherzawl,Pherzawl,True,24.361855,93.254047,MultiPolygon,Survey of India
+14,Manipur,257,Senapati,Senapati,True,25.408144,94.101991,MultiPolygon,Survey of India
+14,Manipur,258,Tamenglong,Tamenglong,True,25.059001,93.550969,MultiPolygon,Survey of India
+14,Manipur,716,Tengnoupal,Tengnoupal,True,24.373678,94.258026,MultiPolygon,Survey of India
+14,Manipur,259,Thoubal,Thoubal,True,24.634055,94.011821,MultiPolygon,Survey of India
+14,Manipur,260,Ukhrul,Ukhrul,True,25.300825,94.468919,MultiPolygon,Survey of India
+17,Meghalaya,273,East Garo Hills,East Garo Hills,True,25.63663,90.642214,MultiPolygon,Survey of India
+17,Meghalaya,657,East Jaintia Hills,East Jaintia Hills,True,25.250897,92.492011,MultiPolygon,Survey of India
+17,Meghalaya,274,East Khasi Hills,East Khasi Hills,True,25.403773,91.830806,MultiPolygon,Survey of India
+17,Meghalaya,656,North Garo Hills,North Garo Hills,True,25.869998,90.713494,MultiPolygon,Survey of India
+17,Meghalaya,276,Ri Bhoi,Ri Bhoi,True,25.857608,91.847305,MultiPolygon,Survey of India
+17,Meghalaya,277,South Garo Hills,South Garo Hills,True,25.351468,90.578691,MultiPolygon,Survey of India
+17,Meghalaya,663,South West Garo Hills,South West Garo Hills,True,25.441172,89.972174,MultiPolygon,Survey of India
+17,Meghalaya,658,South West Khasi Hills,South West Khasi Hills,True,25.327701,91.323171,MultiPolygon,Survey of India
+17,Meghalaya,278,West Garo Hills,West Garo Hills,True,25.61543,90.184601,MultiPolygon,Survey of India
+17,Meghalaya,275,West Jaintia Hills,West Jaintia Hills,True,25.444616,92.179275,MultiPolygon,Survey of India
+17,Meghalaya,279,West Khasi Hills,West Khasi Hills,True,25.564369,91.280654,MultiPolygon,Survey of India
+15,Mizoram,261,Aizawl,Aizawl,True,23.852591,92.969731,MultiPolygon,Survey of India
+15,Mizoram,262,Champhai,Champhai,True,23.546663,93.223441,MultiPolygon,Survey of India
+15,Mizoram,263,Kolasib,Kolasib,True,24.187153,92.712568,MultiPolygon,Survey of India
+15,Mizoram,264,Lawngtlai,Lawngtlai,True,22.357167,92.719179,MultiPolygon,Survey of India
+15,Mizoram,265,Lunglei,Lunglei,True,22.94505,92.759097,MultiPolygon,Survey of India
+15,Mizoram,266,Mamit,Mamit,True,23.753012,92.453103,MultiPolygon,Survey of India
+15,Mizoram,268,Serchhip,Serchhip,True,23.30642,92.844484,MultiPolygon,Survey of India
+15,Mizoram,267,Siaha,Saiha,False,22.281043,93.01684,MultiPolygon,Survey of India
+13,Nagaland,244,Dimapur,Dimapur,True,25.812975,93.905516,MultiPolygon,Survey of India
+13,Nagaland,614,Kiphire,Kiphire,True,25.80754,94.826623,MultiPolygon,Survey of India
+13,Nagaland,245,Kohima,Kohima,True,25.775118,94.126415,MultiPolygon,Survey of India
+13,Nagaland,615,Longleng,Longleng,True,26.585797,94.806839,MultiPolygon,Survey of India
+13,Nagaland,246,Mokokchung,Mokokchung,True,26.481293,94.524912,MultiPolygon,Survey of India
+13,Nagaland,247,Mon,Mon,True,26.669622,94.999717,MultiPolygon,Survey of India
+13,Nagaland,613,Peren,Peren,True,25.455323,93.587478,MultiPolygon,Survey of India
+13,Nagaland,248,Phek,Phek,True,25.666135,94.378601,MultiPolygon,Survey of India
+13,Nagaland,249,Tuensang,Tuensang,True,26.15031,94.915193,MultiPolygon,Survey of India
+13,Nagaland,250,Wokha,Wokha,True,26.248839,94.217802,MultiPolygon,Survey of India
+13,Nagaland,251,Zunheboto,Zunheboto,True,26.009863,94.505614,MultiPolygon,Survey of India
+21,Odisha,344,Anugola,Anugul,False,21.106339,84.953694,MultiPolygon,Survey of India
+21,Odisha,345,Balangir,Balangir,True,20.608454,83.166497,MultiPolygon,Survey of India
+21,Odisha,346,Baleshwar,Baleshwar,True,21.521449,86.875143,MultiPolygon,Survey of India
+21,Odisha,347,Baragada,Bargarh,False,21.222848,83.563706,MultiPolygon,Survey of India
+21,Odisha,348,Bhadrak,Bhadrak,True,20.989011,86.600999,MultiPolygon,Survey of India
+21,Odisha,349,Boudh,Boudh,True,20.649846,84.003117,MultiPolygon,Survey of India
+21,Odisha,351,Debagada,Deogarh,False,21.448112,84.707117,MultiPolygon,Survey of India
+21,Odisha,352,Dhenkanal,Dhenkanal,True,20.833494,85.618264,MultiPolygon,Survey of India
+21,Odisha,353,Gajapati,Gajapati,True,19.194506,84.174283,MultiPolygon,Survey of India
+21,Odisha,354,Ganjam,Ganjam,True,19.605651,84.701417,MultiPolygon,Survey of India
+21,Odisha,355,Jagatsinghapur,Jagatsinghapur,True,20.174758,86.335567,MultiPolygon,Survey of India
+21,Odisha,356,Jajpur,Jajapur,False,20.876943,86.121109,MultiPolygon,Survey of India
+21,Odisha,357,Jharsuguda,Jharsuguda,True,21.802465,84.016337,MultiPolygon,Survey of India
+21,Odisha,358,Kalahandi,Kalahandi,True,19.828553,83.070647,MultiPolygon,Survey of India
+21,Odisha,359,Kandhamala,Kandhamal,False,20.136683,84.080794,MultiPolygon,Survey of India
+21,Odisha,350,Kataka,Cuttack,False,20.393391,85.411387,MultiPolygon,Survey of India
+21,Odisha,360,Kendrapada,Kendrapara,False,20.553135,86.532402,MultiPolygon,Survey of India
+21,Odisha,361,Kendujhar,Kendujhar,True,21.592556,85.665465,MultiPolygon,Survey of India
+21,Odisha,362,Khordha,Khordha,True,20.053612,85.501284,MultiPolygon,Survey of India
+21,Odisha,363,Koraput,Koraput,True,18.724971,82.591842,MultiPolygon,Survey of India
+21,Odisha,364,Malkangiri,Malkangiri,True,18.273676,81.953337,MultiPolygon,Survey of India
+21,Odisha,365,Mayurbhanj,Mayurbhanj,True,21.902041,86.413038,MultiPolygon,Survey of India
+21,Odisha,366,Nabarangpur,Nabarangpur,True,19.60649,82.297624,MultiPolygon,Survey of India
+21,Odisha,367,Nayagada,Nayagarh,False,20.23427,85.014783,MultiPolygon,Survey of India
+21,Odisha,368,Nuapada,Nuapada,True,20.540433,82.527732,Polygon,Survey of India
+21,Odisha,369,Puri,Puri,True,19.829806,85.657159,MultiPolygon,Survey of India
+21,Odisha,370,Rayagada,Rayagada,True,19.44329,83.577662,MultiPolygon,Survey of India
+21,Odisha,371,Sambalpur,Sambalpur,True,21.561864,84.153602,MultiPolygon,Survey of India
+21,Odisha,372,Subarnapur,Sonepur,False,20.850115,83.846013,MultiPolygon,Survey of India
+21,Odisha,373,Sundaragada,Sundargarh,False,22.051062,84.865008,MultiPolygon,Survey of India
+34,Puducherry,598,Karaikal,Karaikal,True,10.915447,79.807161,MultiPolygon,Survey of India
+34,Puducherry,600,Puducherry,Pondicherry,False,11.9219,79.794878,MultiPolygon,Survey of India
+3,Punjab,27,Amritsar,Amritsar,True,31.765411,74.833224,MultiPolygon,Survey of India
+3,Punjab,605,Barnala,Barnala,True,30.371773,75.503544,MultiPolygon,Survey of India
+3,Punjab,28,Bathinda,Bathinda,True,30.175684,75.034948,MultiPolygon,Survey of India
+3,Punjab,29,Faridkot,Faridkot,True,30.602562,74.795913,MultiPolygon,Survey of India
+3,Punjab,30,Fatehgarh Sahib,Fatehgarh Sahib,True,30.660721,76.37271,MultiPolygon,Survey of India
+3,Punjab,651,Fazilka,Fazilka,True,30.366285,74.095527,MultiPolygon,Survey of India
+3,Punjab,31,Ferozepur,Ferozepur,True,30.944857,74.746704,MultiPolygon,Survey of India
+3,Punjab,32,Gurdaspur,Gurdaspur,True,31.900241,75.233832,MultiPolygon,Survey of India
+3,Punjab,33,Hoshiarpur,Hoshiarpur,True,31.608921,75.853884,MultiPolygon,Survey of India
+3,Punjab,34,Jalandhar,Jalandhar,True,31.291904,75.569201,MultiPolygon,Survey of India
+3,Punjab,35,Kapurthala,Kapurthala,True,31.387774,75.304265,MultiPolygon,Survey of India
+3,Punjab,36,Ludhiana,Ludhiana,True,30.784621,75.82772,MultiPolygon,Survey of India
+3,Punjab,37,Mansa,Mansa,True,29.881001,75.488503,MultiPolygon,Survey of India
+3,Punjab,38,Moga,Moga,True,30.790585,75.155872,MultiPolygon,Survey of India
+3,Punjab,662,Pathankot,Pathankot,True,32.300984,75.659003,MultiPolygon,Survey of India
+3,Punjab,41,Patiala,Patiala,True,30.208996,76.342151,MultiPolygon,Survey of India
+3,Punjab,42,Rupnagar,Rupnagar,True,31.093867,76.530883,MultiPolygon,Survey of India
+3,Punjab,608,S.A.S Nagar,S.A.S Nagar,True,30.648341,76.742951,MultiPolygon,Survey of India
+3,Punjab,43,Sangrur,Sangrur,True,30.207307,75.812441,MultiPolygon,Survey of India
+3,Punjab,40,Shahid Bhagat Singh Nagar,Shahid Bhagat Singh Nagar,True,31.127931,76.158453,MultiPolygon,Survey of India
+3,Punjab,39,Sri Muktsar Sahib,Sri Muktsar Sahib,True,30.284875,74.521226,MultiPolygon,Survey of India
+3,Punjab,609,Tarn Taran,Tarn Taran,True,31.324547,74.841549,MultiPolygon,Survey of India
+8,Rajasthan,86,Ajmer,Ajmer,True,26.320614,74.697884,MultiPolygon,Survey of India
+8,Rajasthan,87,Alwar,Alwar,True,27.638714,76.610047,MultiPolygon,Survey of India
+8,Rajasthan,88,Banswara,Banswara,True,23.491407,74.357783,MultiPolygon,Survey of India
+8,Rajasthan,89,Baran,Baran,True,24.91873,76.683556,MultiPolygon,Survey of India
+8,Rajasthan,90,Barmer,Barmer,True,25.603186,71.682474,MultiPolygon,Survey of India
+8,Rajasthan,91,Bharatpur,Bharatpur,True,27.266822,77.370466,MultiPolygon,Survey of India
+8,Rajasthan,92,Bhilwara,Bhilwara,True,25.483434,74.69833,MultiPolygon,Survey of India
+8,Rajasthan,93,Bikaner,Bikaner,True,28.099005,73.104465,MultiPolygon,Survey of India
+8,Rajasthan,94,Bundi,Bundi,True,25.43599,75.738817,MultiPolygon,Survey of India
+8,Rajasthan,95,Chittorgarh,Chittorgarh,True,24.713008,74.476436,MultiPolygon,Survey of India
+8,Rajasthan,96,Churu,Churu,True,28.203929,74.68987,MultiPolygon,Survey of India
+8,Rajasthan,97,Dausa,Dausa,True,26.800909,76.420807,MultiPolygon,Survey of India
+8,Rajasthan,98,Dholpur,Dholpur,True,26.651811,77.623523,MultiPolygon,Survey of India
+8,Rajasthan,99,Dungarpur,Dungarpur,True,23.664415,73.812243,MultiPolygon,Survey of India
+8,Rajasthan,100,Ganganagar,Ganganagar,True,29.465782,73.53534,MultiPolygon,Survey of India
+8,Rajasthan,101,Hanumangarh,Hanumangarh,True,29.364498,74.252149,MultiPolygon,Survey of India
+8,Rajasthan,102,Jaipur,Jaipur,True,27.14859,75.752348,MultiPolygon,Survey of India
+8,Rajasthan,103,Jaisalmer,Jaisalmer,True,27.028607,70.772942,MultiPolygon,Survey of India
+8,Rajasthan,104,Jalore,Jalore,True,25.203108,72.311128,MultiPolygon,Survey of India
+8,Rajasthan,105,Jhalawar,Jhalawar,True,24.325233,76.515226,MultiPolygon,Survey of India
+8,Rajasthan,106,Jhunjhunu,Jhunjhunu,True,28.079394,75.519866,MultiPolygon,Survey of India
+8,Rajasthan,107,Jodhpur,Jodhpur,True,26.757513,72.873224,MultiPolygon,Survey of India
+8,Rajasthan,108,Karauli,Karauli,True,26.520393,77.057682,MultiPolygon,Survey of India
+8,Rajasthan,109,Kota,Kota,True,25.18934,75.990191,MultiPolygon,Survey of India
+8,Rajasthan,110,Nagaur,Nagaur,True,27.053463,74.21876,MultiPolygon,Survey of India
+8,Rajasthan,111,Pali,Pali,True,25.596161,73.439884,MultiPolygon,Survey of India
+8,Rajasthan,629,Pratapgarh,Pratapgarh,True,24.019919,74.619928,MultiPolygon,Survey of India
+8,Rajasthan,112,Rajsamand,Rajsamand,True,25.284795,73.824221,MultiPolygon,Survey of India
+8,Rajasthan,113,Sawai Madhopur,Sawai Madhopur,True,26.226729,76.286207,MultiPolygon,Survey of India
+8,Rajasthan,114,Sikar,Sikar,True,27.659347,75.038741,MultiPolygon,Survey of India
+8,Rajasthan,115,Sirohi,Sirohi,True,24.80908,72.827402,MultiPolygon,Survey of India
+8,Rajasthan,116,Tonk,Tonk,True,26.128855,75.663785,MultiPolygon,Survey of India
+8,Rajasthan,117,Udaipur,Udaipur,True,24.46332,73.667824,MultiPolygon,Survey of India
+11,Sikkim,225,Gangtok,Gangtok,True,27.283105,88.672965,MultiPolygon,Survey of India
+11,Sikkim,228,Gyalshing,Gyalshing,True,27.361014,88.184035,MultiPolygon,Survey of India
+11,Sikkim,226,Mangan,Mangan,True,27.755089,88.520546,MultiPolygon,Survey of India
+11,Sikkim,227,Namchi,Namchi,True,27.30379,88.379038,MultiPolygon,Survey of India
+33,Tamil Nadu,610,Ariyalur,Ariyalur,True,11.153443,79.25803,MultiPolygon,Survey of India
+33,Tamil Nadu,730,Chengalpattu,Chengalpattu,True,12.629017,80.036645,MultiPolygon,Survey of India
+33,Tamil Nadu,568,Chennai,Chennai,True,13.055377,80.235496,MultiPolygon,Survey of India
+33,Tamil Nadu,569,Coimbatore,Coimbatore,True,10.813296,77.096566,MultiPolygon,Survey of India
+33,Tamil Nadu,570,Cuddalore,Cuddalore,True,11.519436,79.339054,MultiPolygon,Survey of India
+33,Tamil Nadu,571,Dharmapuri,Dharmapuri,True,12.144337,78.107626,MultiPolygon,Survey of India
+33,Tamil Nadu,572,Dindigul,Dindigul,True,10.424063,77.815787,MultiPolygon,Survey of India
+33,Tamil Nadu,573,Erode,Erode,True,11.481563,77.353303,MultiPolygon,Survey of India
+33,Tamil Nadu,729,Kallakurichi,Kallakurichi,True,11.797096,79.051714,MultiPolygon,Survey of India
+33,Tamil Nadu,574,Kancheepuram,Kanchipuram,False,12.794049,79.774438,MultiPolygon,Survey of India
+33,Tamil Nadu,575,Kanniyakumari,Kanniyakumari,True,8.327159,77.357175,MultiPolygon,Survey of India
+33,Tamil Nadu,576,Karur,Karur,True,10.825126,78.385546,MultiPolygon,Survey of India
+33,Tamil Nadu,577,Krishnagiri,Krishnagiri,True,12.514642,78.17869,MultiPolygon,Survey of India
+33,Tamil Nadu,578,Madurai,Madurai,True,9.938718,78.024047,MultiPolygon,Survey of India
+33,Tamil Nadu,579,Nagapattinam,Nagapattinam,True,10.602061,79.761848,MultiPolygon,Survey of India
+33,Tamil Nadu,580,Namakkal,Namakkal,True,11.302928,78.123394,MultiPolygon,Survey of India
+33,Tamil Nadu,581,Perambalur,Perambalur,True,11.290374,78.930782,MultiPolygon,Survey of India
+33,Tamil Nadu,582,Pudukkottai,Pudukkottai,True,10.29074,78.816937,MultiPolygon,Survey of India
+33,Tamil Nadu,583,Ramanathapuram,Ramanathapuram,True,9.518261,78.650242,MultiPolygon,Survey of India
+33,Tamil Nadu,731,Ranipet,Ranipet,True,12.919049,79.408283,MultiPolygon,Survey of India
+33,Tamil Nadu,584,Salem,Salem,True,11.644724,78.206735,MultiPolygon,Survey of India
+33,Tamil Nadu,585,Sivaganga,Sivaganga,True,9.966105,78.717297,MultiPolygon,Survey of India
+33,Tamil Nadu,733,Tenkasi,Tenkasi,True,9.094185,77.474962,MultiPolygon,Survey of India
+33,Tamil Nadu,586,Thanjavur,Thanjavur,True,10.658451,79.201795,Polygon,Survey of India
+33,Tamil Nadu,587,The Nilgiris,The Nilgiris,True,11.449293,76.699201,MultiPolygon,Survey of India
+33,Tamil Nadu,588,Theni,Theni,True,9.867249,77.426512,MultiPolygon,Survey of India
+33,Tamil Nadu,589,Thiruvallur,Thiruvallur,True,13.254783,80.062325,MultiPolygon,Survey of India
+33,Tamil Nadu,590,Thiruvarur,Thiruvarur,True,10.646879,79.503287,MultiPolygon,Survey of India
+33,Tamil Nadu,594,Thoothukkudi,Tuticorin,False,8.84524,77.993407,MultiPolygon,Survey of India
+33,Tamil Nadu,591,Tiruchirappalli,Tiruchirappalli,True,10.853867,78.732641,MultiPolygon,Survey of India
+33,Tamil Nadu,592,Tirunelveli,Tirunelveli,True,8.548204,77.584331,MultiPolygon,Survey of India
+33,Tamil Nadu,732,Tirupathur,Tirupathur,True,12.58308,78.625875,MultiPolygon,Survey of India
+33,Tamil Nadu,634,Tiruppur,Tiruppur,True,10.796238,77.53554,MultiPolygon,Survey of India
+33,Tamil Nadu,593,Tiruvannamalai,Tiruvannamalai,True,12.42862,79.00005,MultiPolygon,Survey of India
+33,Tamil Nadu,595,Vellore,Vellore,True,12.902043,79.060689,MultiPolygon,Survey of India
+33,Tamil Nadu,596,Viluppuram,Villupuram,False,12.124812,79.601129,MultiPolygon,Survey of India
+33,Tamil Nadu,597,Virudhunagar,Virudhunagar,True,9.49121,77.869612,MultiPolygon,Survey of India
+36,Telangana,501,Adilabad,Adilabad,True,19.543481,78.63971,MultiPolygon,Survey of India
+36,Telangana,690,Bhadradri Kothagudem,Bhadradri Kothagudem,True,17.718544,80.568338,MultiPolygon,Survey of India
+36,Telangana,686,Hanumakonda,Hanumakonda,True,18.071325,79.446601,MultiPolygon,Survey of India
+36,Telangana,507,Hyderabad,Hyderabad,True,17.399062,78.461421,MultiPolygon,Survey of India
+36,Telangana,681,Jagitial,Jagitial,True,18.822366,78.912016,MultiPolygon,Survey of India
+36,Telangana,689,Jangoan,Jangoan,True,17.746247,79.242563,MultiPolygon,Survey of India
+36,Telangana,687,Jayashankar Bhupalapally,Jayashankar Bhupalapally,True,18.507983,79.960787,MultiPolygon,Survey of India
+36,Telangana,695,Jogulamba Gadwal,Jogulamba Gadwal,True,16.095181,77.732457,MultiPolygon,Survey of India
+36,Telangana,685,Kamareddy,Kamareddy,True,18.314104,78.053632,MultiPolygon,Survey of India
+36,Telangana,508,Karimnagar,Karimnagar,True,18.406617,79.276497,MultiPolygon,Survey of India
+36,Telangana,509,Khammam,Khammam,True,17.174392,80.40288,MultiPolygon,Survey of India
+36,Telangana,699,Kumuram Bheem Asifabad,Kumuram Bheem Asifabad,True,19.326147,79.427351,MultiPolygon,Survey of India
+36,Telangana,688,Mahabubabad,Mahabubabad,True,17.703837,80.03341,MultiPolygon,Survey of India
+36,Telangana,512,Mahabubnagar,Mahabubnagar,True,16.692055,77.957383,MultiPolygon,Survey of India
+36,Telangana,684,Mancherial,Mancherial,True,18.977482,79.523759,MultiPolygon,Survey of India
+36,Telangana,513,Medak,Medak,True,17.944314,78.164185,MultiPolygon,Survey of India
+36,Telangana,700,Medchal Malkajgiri,Medchal Malkajgiri,True,17.533922,78.532132,MultiPolygon,Survey of India
+36,Telangana,720,Mulugu,Mulugu,True,18.313423,80.344201,MultiPolygon,Survey of India
+36,Telangana,694,Nagarkurnool,Nagarkurnool,True,16.419905,78.684804,MultiPolygon,Survey of India
+36,Telangana,514,Nalgonda,Nalgonda,True,16.858091,79.215948,MultiPolygon,Survey of India
+36,Telangana,721,Narayanpet,Narayanpet,True,16.687498,77.617022,MultiPolygon,Survey of India
+36,Telangana,680,Nirmal,Nirmal,True,19.097931,78.36354,MultiPolygon,Survey of India
+36,Telangana,516,Nizamabad,Nizamabad,True,18.721874,78.191745,MultiPolygon,Survey of India
+36,Telangana,682,Peddapalli,Peddapalli,True,18.626169,79.495583,MultiPolygon,Survey of India
+36,Telangana,683,Rajanna Sircilla,Rajanna Sircilla,True,18.421471,78.764184,MultiPolygon,Survey of India
+36,Telangana,518,Ranga Reddy,Ranga Reddy,True,17.131202,78.392217,MultiPolygon,Survey of India
+36,Telangana,691,Sangareddy,Sangareddy,True,17.85223,77.718272,MultiPolygon,Survey of India
+36,Telangana,692,Siddipet,Siddipet,True,18.044559,78.906625,MultiPolygon,Survey of India
+36,Telangana,696,Suryapet,Suryapet,True,17.080213,79.792579,MultiPolygon,Survey of India
+36,Telangana,698,Vikarabad,Vikarabad,True,17.248966,77.73771,MultiPolygon,Survey of India
+36,Telangana,693,Wanaparthy,Wanaparthy,True,16.286468,77.98796,MultiPolygon,Survey of India
+36,Telangana,522,Warangal,Warangal,True,17.949239,79.788429,MultiPolygon,Survey of India
+36,Telangana,697,Yadadri Bhuvanagiri,Yadadri Bhuvanagiri,True,17.431897,79.087069,MultiPolygon,Survey of India
+38,The Dadra And Nagar Haveli And Daman And Diu,465,Dadra And Nagar Haveli,Dadra And Nagar Haveli,True,20.197733,73.004956,MultiPolygon,Survey of India
+38,The Dadra And Nagar Haveli And Daman And Diu,463,Daman,Daman,True,20.418448,72.842769,MultiPolygon,Survey of India
+38,The Dadra And Nagar Haveli And Daman And Diu,464,Diu,Diu,True,20.721121,70.925853,MultiPolygon,Survey of India
+16,Tripura,269,Dhalai,Dhalai,True,23.814113,91.981167,MultiPolygon,Survey of India
+16,Tripura,654,Gomati,Gomati,True,23.437993,91.62011,Polygon,Survey of India
+16,Tripura,652,Khowai,Khowai,True,23.959624,91.640018,MultiPolygon,Survey of India
+16,Tripura,270,North Tripura,North Tripura,True,24.087821,92.24152,MultiPolygon,Survey of India
+16,Tripura,653,Sepahijala,Sepahijala,True,23.542408,91.304393,MultiPolygon,Survey of India
+16,Tripura,271,South Tripura,South Tripura,True,23.182233,91.613541,MultiPolygon,Survey of India
+16,Tripura,655,Unakoti,Unakoti,True,24.201263,92.055531,MultiPolygon,Survey of India
+16,Tripura,272,West Tripura,West Tripura,True,23.913576,91.415946,MultiPolygon,Survey of India
+9,Uttar Pradesh,118,Agra,Agra,True,27.073276,77.900241,MultiPolygon,Survey of India
+9,Uttar Pradesh,119,Aligarh,Aligarh,True,27.87909,78.138991,MultiPolygon,Survey of India
+9,Uttar Pradesh,121,Ambedkar Nagar,Ambedkar Nagar,True,26.406491,82.569301,MultiPolygon,Survey of India
+9,Uttar Pradesh,640,Amethi,Amethi,True,26.347343,81.621798,MultiPolygon,Survey of India
+9,Uttar Pradesh,154,Amroha,Amroha,True,28.7593,78.284023,MultiPolygon,Survey of India
+9,Uttar Pradesh,122,Auraiya,Auraiya,True,26.656123,79.516256,MultiPolygon,Survey of India
+9,Uttar Pradesh,140,Ayodhya,Ayodhya,True,26.637873,82.037988,MultiPolygon,Survey of India
+9,Uttar Pradesh,123,Azamgarh,Azamgarh,True,26.024499,83.019704,Polygon,Survey of India
+9,Uttar Pradesh,124,Baghpat,Baghpat,True,29.038026,77.307005,MultiPolygon,Survey of India
+9,Uttar Pradesh,125,Bahraich,Bahraich,True,27.729845,81.498543,MultiPolygon,Survey of India
+9,Uttar Pradesh,126,Ballia,Ballia,True,25.868433,84.131266,MultiPolygon,Survey of India
+9,Uttar Pradesh,127,Balrampur,Balrampur,True,27.445929,82.398741,MultiPolygon,Survey of India
+9,Uttar Pradesh,128,Banda,Banda,True,25.443529,80.559971,MultiPolygon,Survey of India
+9,Uttar Pradesh,129,Bara Banki,Barabanki,True,26.94272,81.383901,MultiPolygon,Survey of India
+9,Uttar Pradesh,130,Bareilly,Bareilly,True,28.458433,79.404974,MultiPolygon,Survey of India
+9,Uttar Pradesh,131,Basti,Basti,True,26.841514,82.54528,MultiPolygon,Survey of India
+9,Uttar Pradesh,179,Bhadohi,Bhadohi,True,25.354107,82.498883,MultiPolygon,Survey of India
+9,Uttar Pradesh,132,Bijnor,Bijnor,True,29.408193,78.48322,MultiPolygon,Survey of India
+9,Uttar Pradesh,133,Budaun,Budaun,True,28.064691,79.044964,MultiPolygon,Survey of India
+9,Uttar Pradesh,134,Bulandshahr,Bulandshahr,True,28.386606,77.974043,MultiPolygon,Survey of India
+9,Uttar Pradesh,135,Chandauli,Chandauli,True,25.125296,83.249253,MultiPolygon,Survey of India
+9,Uttar Pradesh,136,Chitrakoot,Chitrakoot,True,25.217135,81.102099,MultiPolygon,Survey of India
+9,Uttar Pradesh,137,Deoria,Deoria,True,26.428713,83.764451,MultiPolygon,Survey of India
+9,Uttar Pradesh,138,Etah,Etah,True,27.553022,78.601434,Polygon,Survey of India
+9,Uttar Pradesh,139,Etawah,Etawah,True,26.715083,79.092767,MultiPolygon,Survey of India
+9,Uttar Pradesh,141,Farrukhabad,Farrukhabad,True,27.43663,79.490724,MultiPolygon,Survey of India
+9,Uttar Pradesh,142,Fatehpur,Fatehpur,True,25.835081,80.921993,MultiPolygon,Survey of India
+9,Uttar Pradesh,143,Firozabad,Firozabad,True,27.19283,78.460732,MultiPolygon,Survey of India
+9,Uttar Pradesh,144,Gautam Buddha Nagar,Gautam Buddha Nagar,True,28.372212,77.58053,MultiPolygon,Survey of India
+9,Uttar Pradesh,145,Ghaziabad,Ghaziabad,True,28.768904,77.459506,MultiPolygon,Survey of India
+9,Uttar Pradesh,146,Ghazipur,Ghazipur,True,25.605115,83.509598,MultiPolygon,Survey of India
+9,Uttar Pradesh,147,Gonda,Gonda,True,27.111001,81.926136,MultiPolygon,Survey of India
+9,Uttar Pradesh,148,Gorakhpur,Gorakhpur,True,26.668433,83.367305,MultiPolygon,Survey of India
+9,Uttar Pradesh,149,Hamirpur,Hamirpur,True,25.820017,79.86628,MultiPolygon,Survey of India
+9,Uttar Pradesh,661,Hapur,Hapur,True,28.716794,77.885391,MultiPolygon,Survey of India
+9,Uttar Pradesh,150,Hardoi,Hardoi,True,27.337665,80.099875,MultiPolygon,Survey of India
+9,Uttar Pradesh,163,Hathras,Hathras,True,27.571923,78.111039,MultiPolygon,Survey of India
+9,Uttar Pradesh,151,Jalaun,Jalaun,True,26.105162,79.389849,MultiPolygon,Survey of India
+9,Uttar Pradesh,152,Jaunpur,Jaunpur,True,25.798784,82.494859,MultiPolygon,Survey of India
+9,Uttar Pradesh,153,Jhansi,Jhansi,True,25.527263,78.653226,MultiPolygon,Survey of India
+9,Uttar Pradesh,155,Kannauj,Kannauj,True,26.999259,79.692679,MultiPolygon,Survey of India
+9,Uttar Pradesh,156,Kanpur Dehat,Kanpur Dehat,True,26.459363,79.854752,MultiPolygon,Survey of India
+9,Uttar Pradesh,157,Kanpur Nagar,Kanpur Nagar,True,26.441092,80.265357,MultiPolygon,Survey of India
+9,Uttar Pradesh,633,Kasganj,Kasganj,True,27.789553,78.822217,MultiPolygon,Survey of India
+9,Uttar Pradesh,158,Kaushambi,Kaushambi,True,25.534234,81.449626,MultiPolygon,Survey of India
+9,Uttar Pradesh,159,Kheri,Kheri,True,28.184973,80.714337,MultiPolygon,Survey of India
+9,Uttar Pradesh,160,Kushinagar,Kushi Nagar,True,26.9273,83.842525,MultiPolygon,Survey of India
+9,Uttar Pradesh,161,Lalitpur,Lalitpur,True,24.699292,78.519266,MultiPolygon,Survey of India
+9,Uttar Pradesh,162,Lucknow,Lucknow,True,26.83175,80.916554,MultiPolygon,Survey of India
+9,Uttar Pradesh,165,Mahoba,Mahoba,True,25.359736,79.704359,MultiPolygon,Survey of India
+9,Uttar Pradesh,164,Mahrajganj,Maharajganj,False,27.183784,83.484166,MultiPolygon,Survey of India
+9,Uttar Pradesh,166,Mainpuri,Mainpuri,True,27.209969,79.0478,MultiPolygon,Survey of India
+9,Uttar Pradesh,167,Mathura,Mathura,True,27.597877,77.602028,MultiPolygon,Survey of India
+9,Uttar Pradesh,168,Mau,Mau,True,26.037405,83.499021,MultiPolygon,Survey of India
+9,Uttar Pradesh,169,Meerut,Meerut,True,29.015105,77.765926,MultiPolygon,Survey of India
+9,Uttar Pradesh,170,Mirzapur,Mirzapur,True,24.930347,82.620877,MultiPolygon,Survey of India
+9,Uttar Pradesh,171,Moradabad,Moradabad,True,28.88035,78.785117,MultiPolygon,Survey of India
+9,Uttar Pradesh,172,Muzaffarnagar,Muzaffarnagar,True,29.448315,77.739521,MultiPolygon,Survey of India
+9,Uttar Pradesh,173,Pilibhit,Pilibhit,True,28.494748,80.107766,MultiPolygon,Survey of India
+9,Uttar Pradesh,174,Pratapgarh,Pratapgarh,True,25.873941,81.832597,MultiPolygon,Survey of India
+9,Uttar Pradesh,120,Prayagraj,Prayagraj,True,25.280943,81.885895,MultiPolygon,Survey of India
+9,Uttar Pradesh,175,Rae Bareli,Rae Bareli,True,26.208984,81.219218,MultiPolygon,Survey of India
+9,Uttar Pradesh,176,Rampur,Rampur,True,28.794439,79.184892,MultiPolygon,Survey of India
+9,Uttar Pradesh,177,Saharanpur,Saharanpur,True,29.983828,77.503443,MultiPolygon,Survey of India
+9,Uttar Pradesh,659,Sambhal,Sambhal,True,28.427246,78.556248,MultiPolygon,Survey of India
+9,Uttar Pradesh,178,Sant Kabir Nagar,Sant Kabeer Nagar,False,26.756259,83.039817,MultiPolygon,Survey of India
+9,Uttar Pradesh,180,Shahjahanpur,Shahjahanpur,True,27.913142,79.747704,MultiPolygon,Survey of India
+9,Uttar Pradesh,660,Shamli,Shamli,True,29.477597,77.287739,MultiPolygon,Survey of India
+9,Uttar Pradesh,181,Shrawasti,Shravasti,False,27.679199,81.891438,MultiPolygon,Survey of India
+9,Uttar Pradesh,182,Siddharthnagar,Siddharth Nagar,True,27.251364,82.871294,MultiPolygon,Survey of India
+9,Uttar Pradesh,183,Sitapur,Sitapur,True,27.503345,80.832865,MultiPolygon,Survey of India
+9,Uttar Pradesh,184,Sonbhadra,Sonbhadra,True,24.414114,83.066205,MultiPolygon,Survey of India
+9,Uttar Pradesh,185,Sultanpur,Sultanpur,True,26.259079,82.252524,MultiPolygon,Survey of India
+9,Uttar Pradesh,186,Unnao,Unnao,True,26.567251,80.627061,MultiPolygon,Survey of India
+9,Uttar Pradesh,187,Varanasi,Varanasi,True,25.370866,82.941796,MultiPolygon,Survey of India
+5,Uttarakhand,45,Almora,Almora,True,29.702358,79.43218,MultiPolygon,Survey of India
+5,Uttarakhand,46,Bageshwar,Bageshwar,True,30.008997,79.928038,MultiPolygon,Survey of India
+5,Uttarakhand,47,Chamoli,Chamoli,True,30.502021,79.619339,MultiPolygon,Survey of India
+5,Uttarakhand,48,Champawat,Champawat,True,29.234793,80.102088,MultiPolygon,Survey of India
+5,Uttarakhand,49,Dehradun,Dehradun,True,30.496624,77.86169,MultiPolygon,Survey of India
+5,Uttarakhand,50,Haridwar,Haridwar,True,29.91197,78.007814,MultiPolygon,Survey of India
+5,Uttarakhand,51,Nainital,Nainital,True,29.294954,79.415572,MultiPolygon,Survey of India
+5,Uttarakhand,52,Pauri Garhwal,Pauri Garhwal,True,29.845977,78.707502,MultiPolygon,Survey of India
+5,Uttarakhand,53,Pithoragarh,Pithoragarh,True,30.124712,80.477039,MultiPolygon,Survey of India
+5,Uttarakhand,54,Rudraprayag,Rudra Prayag,True,30.491651,79.034828,MultiPolygon,Survey of India
+5,Uttarakhand,55,Tehri Garhwal,Tehri Garhwal,True,30.464003,78.486624,MultiPolygon,Survey of India
+5,Uttarakhand,56,Udham Singh Nagar,Udam Singh Nagar,False,29.046909,79.433981,MultiPolygon,Survey of India
+5,Uttarakhand,57,Uttarkashi,Uttar Kashi,True,30.965134,78.659972,MultiPolygon,Survey of India
+19,West Bengal,664,Alipurduar,Alipurduar,True,26.632748,89.460012,MultiPolygon,Survey of India
+19,West Bengal,305,Bankura,Bankura,True,23.117631,87.24343,MultiPolygon,Survey of India
+19,West Bengal,307,Birbhum,Birbhum,True,24.07073,87.702925,MultiPolygon,Survey of India
+19,West Bengal,308,Cooch Behar,Coochbehar,True,26.246774,89.399199,MultiPolygon,Survey of India
+19,West Bengal,310,Dakshin Dinajpur,Dinajpur Dakshin,False,25.389351,88.524773,MultiPolygon,Survey of India
+19,West Bengal,309,Darjeeling,Darjeeling,True,26.83082,88.301953,MultiPolygon,Survey of India
+19,West Bengal,312,Hooghly,Hooghly,True,22.915229,88.026043,MultiPolygon,Survey of India
+19,West Bengal,313,Howrah,Howrah,True,22.498842,88.033641,MultiPolygon,Survey of India
+19,West Bengal,314,Jalpaiguri,Jalpaiguri,True,26.630257,88.729149,MultiPolygon,Survey of India
+19,West Bengal,703,Jhargram,Jhargram,True,22.323784,87.009503,MultiPolygon,Survey of India
+19,West Bengal,702,Kalimpong,Kalimpong,True,27.021359,88.645724,MultiPolygon,Survey of India
+19,West Bengal,315,Kolkata,Kolkata,True,22.543261,88.332795,MultiPolygon,Survey of India
+19,West Bengal,316,Malda,Maldah,False,25.089757,88.112063,MultiPolygon,Survey of India
+19,West Bengal,319,Murshidabad,Murshidabad,True,24.270494,88.379003,MultiPolygon,Survey of India
+19,West Bengal,320,Nadia,Nadia,True,23.491581,88.565214,MultiPolygon,Survey of India
+19,West Bengal,303,North 24 Parganas,24 Paraganas North,False,22.704148,88.659567,MultiPolygon,Survey of India
+19,West Bengal,704,Paschim Bardhaman,Paschim Bardhaman,True,23.64462,87.156638,MultiPolygon,Survey of India
+19,West Bengal,318,Paschim Medinipur,Medinipur West,False,22.357229,87.412711,MultiPolygon,Survey of India
+19,West Bengal,306,Purba Bardhaman,Purba Bardhaman,True,23.392597,87.88618,MultiPolygon,Survey of India
+19,West Bengal,317,Purba Medinipur,Medinipur East,False,22.08995,87.913252,MultiPolygon,Survey of India
+19,West Bengal,321,Purulia,Purulia,True,23.215999,86.297493,MultiPolygon,Survey of India
+19,West Bengal,304,South 24 Parganas,24 Paraganas South,False,22.079184,88.634274,MultiPolygon,Survey of India
+19,West Bengal,311,Uttar Dinajpur,Dinajpur Uttar,False,25.884732,87.963314,MultiPolygon,Survey of India

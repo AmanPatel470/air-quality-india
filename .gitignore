@@ -7,3 +7,6 @@ data/clean/*.csv
 models/*.pkl
 .DS_Store
 Portfolio-main/
+data/raw/
+!data/clean/district_coordinates.csv
+.agents/

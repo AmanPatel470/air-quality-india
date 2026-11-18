@@ -9,3 +9,6 @@ streamlit
 joblib
 xgboost
 shap
+requests
+urllib3
+plotly
