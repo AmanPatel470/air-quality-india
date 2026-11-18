@@ -2,6 +2,8 @@ import os
 import html
 import base64
 import plotly.graph_objects as go
+import requests
+from io import BytesIO
 
 import pandas as pd
 import streamlit as st
@@ -251,21 +253,18 @@ st.write(
 # 4. LOAD DATA
 # =====================================================
 
-@st.cache_data
-def load_live_data(file_modified):
+DATA_URL = (
+    "https://github.com/AmanPatel470/air-quality-india/"
+    "releases/download/latest-data/live_air_quality.csv"
+)
 
-    base_dir = os.path.dirname(
-        os.path.dirname(os.path.abspath(__file__))
-    )
+@st.cache_data(ttl=3600)
+def load_live_data():
 
-    file_path = os.path.join(
-        base_dir,
-        "data",
-        "clean",
-        "live_air_quality.csv"
-    )
+    response = requests.get(DATA_URL, timeout=120)
+    response.raise_for_status()
 
-    data = pd.read_csv(file_path)
+    data = pd.read_csv(BytesIO(response.content))
 
     required_columns = [
         "State",
@@ -285,6 +284,7 @@ def load_live_data(file_modified):
     ]
 
     if missing_columns:
+
         raise ValueError(
             f"Missing dataset columns: {missing_columns}"
         )
@@ -304,6 +304,7 @@ def load_live_data(file_modified):
     ]
 
     for column in numeric_columns:
+
         data[column] = pd.to_numeric(
             data[column],
             errors="coerce"
@@ -328,27 +329,14 @@ def load_live_data(file_modified):
     return data
 
 
-# Get the CSV modification time.
-# When the dataset changes, Streamlit reloads it.
-
-base_dir = os.path.dirname(
-    os.path.dirname(os.path.abspath(__file__))
-)
-
-data_path = os.path.join(
-    base_dir,
-    "data",
-    "clean",
-    "live_air_quality.csv"
-)
-
 try:
-    df = load_live_data(os.path.getmtime(data_path))
+
+    df = load_live_data()
 
 except Exception as error:
+
     st.error(f"Unable to load dataset: {error}")
     st.stop()
-
 
 # =====================================================
 # 5. AQI FUNCTIONS
@@ -793,8 +781,12 @@ if state is None and district is None:
     st.markdown("---")
     st.title("INDIA AIR QUALITY MAP")
 
+    project_dir = os.path.dirname(
+    os.path.dirname(os.path.abspath(__file__))
+    )
+
     coordinates_path = os.path.join(
-        base_dir,
+        project_dir,
         "data",
         "clean",
         "district_coordinates.csv"
