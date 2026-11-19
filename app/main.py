@@ -258,7 +258,7 @@ DATA_URL = (
     "releases/download/latest-data/live_air_quality.csv"
 )
 
-@st.cache_data(ttl=3600)
+@st.cache_data(ttl=300)
 def load_live_data():
 
     response = requests.get(DATA_URL, timeout=120)
