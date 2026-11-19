@@ -1,9 +1,9 @@
-
 name: Daily India AQI Data Update
 
 on:
   schedule:
-    - cron: "30 0 * * *" # 6:00 AM IST
+    - cron: "30 21 * * *" # 3:00 AM IST
+    - cron: "30 1 * * *"  # 7:00 AM IST
   workflow_dispatch:
 
 permissions:
@@ -60,6 +60,7 @@ jobs:
       - name: Verify updated dataset
         run: |
           python - <<'PY'
+          import os
           import pandas as pd
 
           path = "data/clean/live_air_quality.csv"
@@ -83,18 +84,28 @@ jobs:
               raise ValueError("Dataset is empty")
 
           districts = df[["State", "District"]].drop_duplicates()
+          unique_districts = len(districts)
+          unique_states = df["State"].nunique()
 
           print("Total records:", len(df))
-          print("Unique districts:", len(districts))
-          print("Unique states:", df["State"].nunique())
+          print("Unique districts:", unique_districts)
+          print("Unique states:", unique_states)
           print("Latest date:", df["Date"].max())
           print("File size:", round(
-              __import__("os").path.getsize(path) / (1024 * 1024), 2
+              os.path.getsize(path) / (1024 * 1024), 2
           ), "MB")
 
-          if len(districts) == 0:
-              raise ValueError("No districts found")
+          if unique_districts != 728:
+              raise ValueError(
+                  f"Expected 728 districts, found {unique_districts}"
+              )
 
+          if unique_states != 36:
+              raise ValueError(
+                  f"Expected 36 states/UTs, found {unique_states}"
+              )
+
+          print("Dataset validation successful!")
           PY
 
       - name: Create or update dataset release
@@ -111,4 +122,4 @@ jobs:
             data/clean/live_air_quality.csv \
             --clobber
 
-          echo "Dataset release updated successfully."
+          echo "Dataset release updated successfully.
